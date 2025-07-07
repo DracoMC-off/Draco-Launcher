@@ -1,8 +1,8 @@
 {
   "name": "draco-launcher",
-  "version": "1.0.1",
-  "productName": "Draco-Launcher",
-  "description": "Modded Minecraft Launcher for the Draco SMP",
+  "version": "1.0.3",
+  "productName": "Draco Launcher",
+  "description": "Modded Minecraft Launcher For the Draco SMP",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/DracoMC-off/Draco-Launcher",

@@ -1,8 +1,8 @@
 appId: 'Draco Launcher'
 productName: 'Draco-Launcher'
-artifactName: '${productName}-setup-${version}.${ext}'
+artifactName: '${productName}-setup-${version}-${arch}.${ext}'
 
-copyright: 'Copyright © 2018-2025 Daniel Scalzi, DracoMC'
+copyright: 'Copyright © 2025 DracoMC'
 
 asar: true
 compression: 'maximum'
@@ -41,7 +41,7 @@ linux:
   target: 'AppImage'
   maintainer: 'Draco Launcher Team'
   vendor: 'Draco Launcher Team'
-  synopsis: 'Modded Minecraft Launcher'
+  synopsis: 'Draco Launcher'
   description: 'Draco Launcher is a modded Minecraft launcher that allows you to easily manage and play on the Draco SMP Server.'
   category: 'Game'
 
